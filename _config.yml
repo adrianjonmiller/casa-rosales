@@ -1,9 +1,13 @@
 # Site settings
-title: Solo, a Jekyll Theme
-tag_text: Solo
-description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+title: Casa Rosales
+description: Sausages! Made daily locally from only the finest ingredients and delivered FRESH, not frozen, to your neighborhood store.
+url: "http://adrianmiller.design/casa-rosales"
 
 # Build settings
 markdown: kramdown
 
 exclude: ["README.md"]
+
+# SASS Dir
+sass:
+    sass_dir: assets
