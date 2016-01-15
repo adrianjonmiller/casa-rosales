@@ -53,6 +53,14 @@ body {
 
 .heading--l {
 	font-size: 18pt;
+
+	&.bold {
+		font-weight: bold;
+	}
+
+	&.tan {
+		color: #FFF6E0;
+	}
 }
 
 .italic {
